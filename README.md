@@ -14,3 +14,5 @@
 ## Common to find at
 
  - Anywhere people are
+
+![Dog](/images/maxresdefault.jpg)
